@@ -1,0 +1,78 @@
+Company HR Policy Handbook
+
+1. Work Hours and Attendance
+
+Standard working hours are from 9:00 AM to 5:00 PM, Monday through Friday.
+
+Employees are expected to be available during core collaboration hours between 10:00 AM and 3:00 PM.
+
+Hybrid employees must attend office locations at least two days per week unless otherwise approved by management.
+
+Repeated late attendance without prior approval may result in HR review.
+
+2. Leave Policy
+
+Full-time employees are eligible for:
+
+- 10 paid sick leaves annually
+- 15 vacation days annually
+- 3 personal emergency leave days
+- Maternity and paternity leave according to provincial regulations
+
+Vacation requests must be submitted at least 14 days in advance through the HR portal.
+
+Unused vacation days may be carried forward up to a maximum of 5 days.
+
+3. Payroll and Compensation
+
+Payroll is processed biweekly.
+
+Employees must report payroll discrepancies within 5 business days.
+
+Payroll inquiries should be directed to:
+
+payroll@company.com
+
+Direct deposit information can be updated through the employee self-service portal.
+
+4. Code of Conduct
+
+Employees are expected to maintain professional behavior and respect workplace diversity and inclusion principles.
+
+Harassment, discrimination, or workplace misconduct will not be tolerated.
+
+Violations may result in disciplinary action or termination.
+
+5. Cybersecurity and Compliance
+
+All employees must complete mandatory cybersecurity awareness training within the first 7 days of joining.
+
+Employees must use multi-factor authentication for all company systems.
+
+Sharing passwords or confidential company data is strictly prohibited.
+
+Any suspected phishing attempts must be reported immediately to:
+
+security@company.com
+
+6. Remote Work Policy
+
+Remote employees must maintain secure internet connections and comply with VPN usage requirements.
+
+Sensitive company data must not be stored on personal devices.
+
+Company-issued devices must be used for all official work.
+
+7. Performance Reviews
+
+Performance evaluations are conducted twice annually.
+
+Employees are evaluated on:
+
+- Technical performance
+- Collaboration
+- Communication
+- Innovation
+- Leadership contribution
+
+Managers provide quarterly feedback sessions.

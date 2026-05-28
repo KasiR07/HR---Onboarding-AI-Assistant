@@ -1,0 +1,94 @@
+New Employee Onboarding Guide
+
+Welcome to the company.
+
+This onboarding guide is designed to help new employees transition smoothly into their role and understand company processes, tools, and expectations.
+
+1. Day 1 Activities
+
+On the first day, employees are required to:
+
+- Attend HR orientation
+- Collect company-issued laptop and accessories
+- Activate company email account
+- Configure multi-factor authentication
+- Join the company Slack workspace
+- Complete workstation setup
+- Review onboarding checklist
+
+Employees will receive onboarding documentation and department-specific training schedules.
+
+2. IT Setup Process
+
+The IT department provides support for:
+
+- Laptop provisioning
+- VPN access
+- Software installation
+- Email setup
+- Account permissions
+- MFA configuration
+
+New hires must verify all applications are functioning correctly before the end of the first week.
+
+For IT support contact:
+
+it-support@company.com
+
+3. Manager Introduction
+
+Employees should schedule an introductory meeting with their reporting manager during the first two business days.
+
+Topics discussed typically include:
+
+- Team structure
+- Current projects
+- Sprint process
+- Expectations and KPIs
+- Communication standards
+- Performance goals
+
+4. Team Collaboration Tools
+
+Employees are expected to regularly use:
+
+- Slack
+- Jira
+- Confluence
+- Microsoft Teams
+- GitHub
+- Google Workspace
+
+Training documentation for these tools is available through the internal knowledge base.
+
+5. Mandatory Training
+
+The following training modules must be completed within 14 days:
+
+- Cybersecurity Awareness
+- Workplace Harassment Prevention
+- Accessibility Standards
+- Data Privacy Compliance
+- Secure Coding Practices
+
+6. Onboarding Buddy Program
+
+Each employee is assigned an onboarding buddy to assist with:
+
+- Team introductions
+- Process clarification
+- Tool guidance
+- Workplace culture
+- Internal workflows
+
+7. First Month Expectations
+
+During the first month, employees are expected to:
+
+- Complete all onboarding tasks
+- Attend training sessions
+- Understand project workflows
+- Begin contributing to assigned tasks
+- Participate in team meetings
+
+Managers conduct a 30-day onboarding review to ensure smooth integration.

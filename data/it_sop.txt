@@ -1,0 +1,89 @@
+IT Support Standard Operating Procedures
+
+1. VPN Access Requests
+
+Employees requiring remote access must submit a VPN access request through the IT Service Portal.
+
+VPN approval requires:
+
+- Manager approval
+- Security compliance verification
+- Completion of cybersecurity training
+
+Approved VPN requests are typically processed within 24 hours.
+
+2. Laptop and Hardware Support
+
+For hardware issues, employees should contact:
+
+it-support@company.com
+
+Supported issues include:
+
+- Laptop malfunction
+- Docking station issues
+- Peripheral replacement
+- Battery replacement
+- Monitor setup
+- Device imaging
+
+3. Software Installation Requests
+
+Employees requiring software installation must submit a request ticket.
+
+The request must include:
+
+- Software name
+- Business justification
+- License requirements
+- Manager approval
+
+Unauthorized software installations are prohibited.
+
+4. Password Reset Procedure
+
+Password resets are available through the Identity Management Portal.
+
+Employees must complete MFA verification before resetting credentials.
+
+Repeated failed login attempts may temporarily lock accounts.
+
+5. Access Management
+
+Access to internal systems requires approval from department managers and data owners.
+
+Systems requiring approval include:
+
+- Power BI dashboards
+- Production databases
+- Cloud infrastructure
+- HR systems
+- Financial systems
+
+6. Security Incident Reporting
+
+Employees must immediately report:
+
+- Phishing attempts
+- Suspicious emails
+- Malware alerts
+- Unauthorized access attempts
+- Lost devices
+
+Security incidents should be reported to:
+
+security@company.com
+
+7. Asset Management
+
+All company devices are tracked using internal asset management systems.
+
+Employees must return all company-issued assets during offboarding.
+
+8. Backup and Recovery
+
+Critical systems are backed up daily.
+
+Employees should store all important files on approved cloud storage platforms.
+
+Local storage of sensitive company data is discouraged.
